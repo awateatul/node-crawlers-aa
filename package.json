@@ -1,0 +1,25 @@
+{
+  "name": "node-crawlers-aa",
+  "version": "1.0.0",
+  "description": "Send custom response to Facebook and Twitter agents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awateatul/node-crawlers-aa.git"
+  },
+  "keywords": [
+    "Facebook",
+    "crawler",
+    "user-agent",
+    "Twitter"
+  ],
+  "author": "Atul Awate <atulawate@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awateatul/node-crawlers-aa/issues"
+  },
+  "homepage": "https://github.com/awateatul/node-crawlers-aa#readme"
+}
